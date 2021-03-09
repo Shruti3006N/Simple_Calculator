@@ -1,5 +1,3 @@
-package com.company;
-
 import java.util.Scanner;
 
 public class Main {
@@ -24,7 +22,9 @@ public class Main {
         else if (op == '/'){
             System.out.println(d1 / d2);
         }
+        else {
+            System.out.println("invalid operator");
+        }
 
     }
  }
-
