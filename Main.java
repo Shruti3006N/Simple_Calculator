@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
+	// code
         System.out.print("Enter num1 operator num2 (5*7) : ");
         Scanner scan = new Scanner(System.in);
         double d1 = scan.nextDouble();
